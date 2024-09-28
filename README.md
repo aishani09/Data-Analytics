@@ -1,7 +1,7 @@
 ﻿# Zomato-Analysis
- ### This project provides an insightful analysis of restaurant data sourced from Zomato. The analysis focuses on key metrics such as restaurant ratings, price ranges, cuisines, and locations, allowing users to filter data by city and extract valuable insights.
+ This project provides an insightful analysis of restaurant data sourced from Zomato. The analysis focuses on key metrics such as restaurant ratings, price ranges, cuisines, and locations, allowing users to filter data by city and extract valuable insights.
 # Overview
-### The main objective of this project is to analyze restaurant data to uncover trends, identify top-performing restaurants, and understand customer preferences across various cities. Interactive visualizations are created using Python libraries such as Plotly and Seaborn, offering an intuitive way to explore the data.
+ The main objective of this project is to analyze restaurant data to uncover trends, identify top-performing restaurants, and understand customer preferences across various cities. Interactive visualizations are created using Python libraries such as Plotly and Seaborn, offering an intuitive way to explore the data.
 
 # Features
 1. Top 10 Restaurants by City: Users can filter restaurants by city and view the top 10 based on ratings and votes.
