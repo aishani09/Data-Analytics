@@ -18,7 +18,7 @@ Each project contains a detailed `README.md` explaining the objectives, datasets
 - Follow the instructions provided in the project’s `README.md`.
 
 ## Tools & Libraries
-- Python (Pandas, Matplotlib, Seaborn, Spotipy)
+- Python (Pandas, Matplotlib, Seaborn)
 - Tableau
 - SQL
 
